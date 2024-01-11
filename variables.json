@@ -1,0 +1,11 @@
+{
+  "PublicRouteTable": "rtb-0cb460303a677d9f1",
+  "PublicSubnet2RouteTableAssociation": "subnet-0346fd04801a2def9/rtb-0cb460303a677d9f1",
+  "InternetGateway": "igw-03e4a0ccc0718fc60",
+  "DefaultPublicRoute": "rtb-0cb460303a677d9f1_0.0.0.0/0",
+  "VPC": "vpc-0ef77de9b495cefd7",
+  "PublicSubnet2": "subnet-0346fd04801a2def9",
+  "NoIngressSecurityGroup": "sg-061c5261e32a8a8b1",
+  "PublicSubnet1": "subnet-0a935169dc1c049b9",
+  "PublicSubnet1RouteTableAssociation": "subnet-0a935169dc1c049b9/rtb-0cb460303a677d9f1"
+}
