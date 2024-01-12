@@ -19,6 +19,7 @@ locals {
   # input_data = jsondecode(file(var.json_input))
   common_tags = {
     Envinroment = var.environment
+    BillingCode = var.billing_code
 
   }
 }
